@@ -1,6 +1,13 @@
-### Olá! 👋
+### Olá! Sou a Andréa, mas pode me chamar de Dea.👋
+#### Estudante de programação apaixonada por cultura e tecnologia.
 
-Bem-vind@ ao meu perfil
+Bem-vind@, a casa é nossa!
+
+.
+
+🚀 Desenvolvedora Web Front-End Jr.
+
+👩‍💻 Aluna Laboratória
 
 <!--
 **Canzua/canzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
