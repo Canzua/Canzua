@@ -1,25 +1,33 @@
+##
+
 ### Olá! Sou a Andréa, mas pode me chamar de Dea.👋
-#### Estudante de programação apaixonada por cultura e tecnologia.
+#### Cantora, estudante de programação, apaixonada por cultura e tecnologia.
 
 Bem-vind@, a casa é nossa!
 
-.
+##
 
-🚀 Desenvolvedora Web Front-End Jr.
+* ♮  Artista, cantora e curiosa por natureza
+* 🚀 Estudante de desenvolvimento web - Front-End.
+* 👩‍💻 Aluna Laboratória | 8º geração
+* 🫶  Profissional generalista que ama novos desafios.
 
-👩‍💻 Aluna Laboratória
+##
 
-<!--
-**Canzua/canzua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abaixo um pouco do que venho estudando
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Angel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Angel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Angel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Angel-NODEJS" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Angel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Angel-NODEJS" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" />
+  <img align="center" alt="Angel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+ </div>
+ </div>
+ 
+  ##
 
-- 🔭 I’m culy working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🏳️‍🌈 Acredito que a tecnologia tem um grande impacto social e quero somar para que ela trabalhe em prol da inclusão e diversidade.
