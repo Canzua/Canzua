@@ -7,7 +7,6 @@ Bem-vind@, a casa é nossa!
 
 ##
 
-* ♮  Artista, cantora e curiosa por natureza
 * 🚀 Estudante de desenvolvimento web - Front-End.
 * 👩‍💻 Aluna Laboratória | 8º geração
 * 🫶  Profissional generalista que ama novos desafios.
