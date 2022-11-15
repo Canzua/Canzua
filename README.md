@@ -9,7 +9,7 @@ Bem-vind@, a casa é nossa!
 
 * 🚀 Estudante de desenvolvimento web - Front-End.
 * 👩‍💻 Aluna Laboratória | 8º geração
-* 🫶  Profissional generalista que ama novos desafios.
+* 🫶  Profissional generalista que ama novos desafios (mas que pode se especializar!)
 
 ##
 
