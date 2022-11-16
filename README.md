@@ -29,4 +29,4 @@ Abaixo um pouco do que venho estudando
  
   ##
 
-  🏳️‍🌈 Acredito que a tecnologia tem um grande impacto social e quero somar para que ela trabalhe em prol da inclusão e diversidade.
+  🏳️‍🌈 Acredito que a tecnologia tem um grande impacto no desenvolvimento social, desejo muito somar para que ela trabalhe em prol da inclusão e diversidade.
