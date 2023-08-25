@@ -5,6 +5,8 @@
 
 Bem-vindas e Bem-vindos, a casa é nossa!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
+
 ##
 
 * 🚀 Bootcamps: Front-End (Laboratoria) | Full-Stack (Campinho Digital) | AWS (Escola da Nuvem) | Ciência de Dados - Python (DIO)
