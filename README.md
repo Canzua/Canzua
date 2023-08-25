@@ -24,7 +24,7 @@ Abaixo um pouco do que venho estudando
   <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="logo-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="logo-trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="logo-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="logo-github" height="40" width="70" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png">
   <img align="center" alt="logo-Python" height="40" width="70" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"
  </div>
  </div>
